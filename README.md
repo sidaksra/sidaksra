@@ -1,5 +1,5 @@
 <!-- Banner Photo -->
-<img src="https://github.com/sidaksra/sidaksra/banner-image.png" alt="Banner" width="100%" />
+<img src="https://github.com/sidaksra/sidaksra/blob/main/banner-image.png alt="Banner" width="100%" />
 
 # 💻 Hi, I'm Sidak Singh Sra! 👋
 
@@ -56,12 +56,6 @@
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidaksra&theme=react-dark)](https://github.com/sidaksra)
 
 ---
 
