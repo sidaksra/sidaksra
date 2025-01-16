@@ -11,16 +11,28 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **Computer Science Graduate** from Trent University, Canada.
-  
-- 👨‍💻 **Software Developer** passionate about building scalable solutions.
+## 🚀 About Me 
 
-- 🔭 I’m currently working on **Full Stack Projects**
+<div style="display: flex; justify-content: space-between; width: 100%;">
 
-- 🌱 I’m currently learning **Cloud Computing**
+  <!-- Left Section: About Me -->
+  <div style="width: 48%; padding-right: 2%;">
+    - 🎓 **Computer Science Graduate** from Trent University, Canada.  
+    - 👨‍💻 **Software Developer** passionate about building scalable solutions.  
+    - 🔭 I’m currently working on **Full Stack Projects**  
+    - 🌱 I’m currently learning **Cloud Computing**  
+    - 📫 How to reach me: **[sidaksra@outlook.com](mailto:sidaksra@outlook.com)**
+  </div>
 
-- 📫 How to reach me **sidaksra@outlook.com**
+  <!-- Right Section: Follow Me -->
+  <div style="width: 48%; padding-left: 2%;">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidaksinghsra)<br>
+    [![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=About.me&logoColor=white)](https://sidak-portfolio.vercel.app/)<br>
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidaksra@outlook.com)
+  </div>
+
+</div>
+
 
 ---
 
@@ -62,11 +74,9 @@
 
 ---
 
-## 📊 GitHub Stats & 📫 Connect with Me  
+## 📊 GitHub Stats
 
-| GitHub Stats | Connect with Me |
-|--------------|-----------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidaksinghsra)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=About.me&logoColor=white)](https://sidak-portfolio.vercel.app/)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidaksra@outlook.com) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact)
 
 ---
 
