@@ -1,5 +1,5 @@
 <!-- Banner Photo -->
-<img src="https://github.com/sidaksra/sidaksra/blob/main/banner-image.png alt="Banner" width="100%" />
+<img src="https://github.com/sidaksra/sidaksra/blob/main/banner-image.png" alt="Banner" width="100%" />
 
 # 💻 Hi, I'm Sidak Singh Sra! 👋
 
