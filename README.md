@@ -13,25 +13,23 @@
 
 ## 🚀 About Me 
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
 
   <!-- Left Section: About Me -->
-  <div style="width: 48%; padding-right: 2%;">
+  <p align="left">
     - 🎓 **Computer Science Graduate** from Trent University, Canada.  
     - 👨‍💻 **Software Developer** passionate about building scalable solutions.  
     - 🔭 I’m currently working on **Full Stack Projects**  
     - 🌱 I’m currently learning **Cloud Computing**  
     - 📫 How to reach me: **[sidaksra@outlook.com](mailto:sidaksra@outlook.com)**
-  </div>
+  </p>
 
   <!-- Right Section: Follow Me -->
-  <div style="width: 48%; padding-left: 2%;">
+  <p align="right">
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidaksinghsra)<br>
     [![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=About.me&logoColor=white)](https://sidak-portfolio.vercel.app/)<br>
     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidaksra@outlook.com)
-  </div>
+  </p>
 
-</div>
 
 
 ---
