@@ -1,7 +1,10 @@
 <!-- Banner Photo -->
 <img src="https://github.com/sidaksra/sidaksra/blob/main/banner-image.png" alt="Banner" width="100%" />
 
-# 💻 Hi, I'm Sidak Singh Sra! 👋
+# <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Hi, I'm Sidak Singh Sra! 👋
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer!;I'm+a+Computer+Science+engineer!" /></a>
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sidaksra&color=blue)](https://github.com/sidaksra)
 [![GitHub followers](https://img.shields.io/github/followers/sidaksra?label=Follow&style=social)](https://github.com/sidaksra)
@@ -9,9 +12,15 @@
 ---
 
 ## 🚀 About Me
-🎓 **Computer Science Graduate** from Trent University, Canada.  
-👨‍💻 **Software Developer** passionate about building scalable solutions.  
-🌟 Always learning and exploring new technologies!  
+- 🎓 **Computer Science Graduate** from Trent University, Canada.
+  
+- 👨‍💻 **Software Developer** passionate about building scalable solutions.
+
+- 🔭 I’m currently working on **Full Stack Projects**
+
+- 🌱 I’m currently learning **Cloud Computing**
+
+- 📫 How to reach me **sidaksra@outlook.com**
 
 ---
 
@@ -55,7 +64,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact)
 
 ---
 
