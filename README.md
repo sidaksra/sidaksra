@@ -1,72 +1,104 @@
-<!-- Banner Photo -->
-<img src="https://github.com/sidaksra/sidaksra/blob/main/banner-image.png" alt="Banner" width="100%" />
+\<!-- Banner -->
 
-# <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Hi, I'm Sidak Singh Sra! 👋
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer!;I'm+a+Computer+Science+engineer!" /></a>
-</p>
+\<img src="[https://github.com/sidaksra/sidaksra/blob/main/banner-image.png](https://github.com/sidaksra/sidaksra/blob/main/banner-image.png)" alt="Sidak Singh Sra - GitHub Banner" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sidaksra&color=blue)](https://github.com/sidaksra)
-[![GitHub followers](https://img.shields.io/github/followers/sidaksra?label=Follow&style=social)](https://github.com/sidaksra)
+# Hi, I'm Sidak Singh Sra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidaksinghsra) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=About.me&logoColor=white)](https://sidak-portfolio.vercel.app/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidaksra@outlook.com)
----
+### Computer Science Graduate | Georgia Tech OMSCS Student | Software Engineering, AI & Data Analytics
 
-## 🚀 About Me
+\<p>   \<a href="[https://readme-typing-svg.herokuapp.com/](https://readme-typing-svg.herokuapp.com/)">\<img src="[https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=20&duration=3000&pause=1000&color=539BF5&width=550&lines=Computer+Science+Graduate;Georgia+Tech+OMSCS+Student;Software+Development+%26+AI;Exploring+Data+Analytics](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans\&size=20\&duration=3000\&pause=1000\&color=539BF5\&width=550\&lines=Computer+Science+Graduate;Georgia+Tech+OMSCS+Student;Software+Development+%26+AI;Exploring+Data+Analytics)" alt="Typing SVG" />\</a> \</p>
 
-- 🎓 **Computer Science Graduate** from Trent University, Canada.  
-- 👨‍💻 **Software Developer** passionate about building scalable solutions.  
-- 🔭 I’m currently working on **Full Stack Projects**  
-- 🌱 I’m currently learning **Cloud Computing**  
-- 📫 How to reach me: **[sidaksra@outlook.com](mailto:sidaksra@outlook.com)**
+\<p>   \<a href="[https://github.com/sidaksra](https://github.com/sidaksra)">     \<img src="[https://komarev.com/ghpvc/?username=sidaksra&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=sidaksra\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />   \</a>   \<a href="[https://github.com/sidaksra?tab=followers](https://github.com/sidaksra?tab=followers)">     \<img src="[https://img.shields.io/github/followers/sidaksra?label=Followers&style=flat](https://img.shields.io/github/followers/sidaksra?label=Followers\&style=flat)" alt="GitHub Followers" />   \</a> \</p>
+
+\<p>   \<a href="[https://www.linkedin.com/in/sidaksinghsra/](https://www.linkedin.com/in/sidaksinghsra/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />   \</a>   \<a href="[https://sidakportfolio.vercel.app/](https://sidakportfolio.vercel.app/)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio" />   \</a>   \<a href="mailto\:sidaksra\@outlook.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />   \</a> \</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm a Computer Science graduate from Trent University, Canada, currently pursuing a Master of Science in Computer Science at Georgia Institute of Technology (Georgia Tech) through the OMSCS program.
 
-### **Frameworks & Libraries**
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+I enjoy building practical software solutions, exploring artificial intelligence, working with databases, and developing intuitive user experiences.
 
-### **Developer Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-0041C4?style=for-the-badge&logo=gnu&logoColor=white)
-
-### **Professional Skills**
-💼 Agile Methodologies  
-🎨 UI/UX Design  
-🔍 Problem-Solving  
-🤝 Teamwork  
-🐛 Debugging & Testing
+- M.S. in Computer Science at Georgia Tech (OMSCS), 2026 - Present
+- B.Sc. (Honours) in Computer Science from Trent University, Canada
+- Graduated with a 9.3/10 CGPA
+- Dean's and President's Honour Roll recipient
+- Interested in Software Engineering, Artificial Intelligence, and Data Analytics
 
 ---
 
-## 📊 GitHub Stats
+## Education
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact)
+**Georgia Institute of Technology**
+Master of Science in Computer Science (OMSCS)
+AI Specialization | 2026 - Present
+
+**Trent University, Canada**
+Bachelor of Science (Honours) in Computer Science
+Software Engineering | 2020 - 2023
+CGPA: 9.3/10
 
 ---
 
-### 🌟 Fun Quote
-> "The best way to predict the future is to create it." – Peter Drucker
+## Technical Skills
+
+**Programming Languages**
+
+
+
+
+
+
+\
+
+
+**Frameworks & Libraries**
+
+
+\
+
+
+**Databases & Developer Tools**
+
+
+
+
+
+\
+
+
+**Data & Design Tools**
+
+
+
+\
+
+
+---
+
+## Areas of Interest
+
+- Software Engineering and Full Stack Development
+- Artificial Intelligence
+- Data Analytics and Visualization
+- Database Design and Management
+- UI/UX Design
+
+---
+
+## GitHub Statistics
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=sidaksra&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=sidaksra\&show_icons=true\&theme=github_dark\&hide_border=true)" height="165" alt="GitHub Statistics" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=sidaksra\&layout=compact\&theme=github_dark\&hide_border=true)" height="165" alt="Top Languages" />
+\</p>
+
+---
+
+## Connect With Me
+
+- Portfolio: [https://sidakportfolio.vercel.app/](https://sidakportfolio.vercel.app/)
+- LinkedIn: [https://www.linkedin.com/in/sidaksinghsra/](https://www.linkedin.com/in/sidaksinghsra/)
+- Email: [sidaksra@outlook.com](mailto\:sidaksra@outlook.com)
+
